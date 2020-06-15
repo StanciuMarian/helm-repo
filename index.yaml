@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  bookinfo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-06-15T12:47:18.821320585+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 5c39d5c26d1c491d240ddf443d8083e7dc74619454b0170a76454512e7dcadaf
+    name: bookinfo
+    type: application
+    urls:
+    - https://stanciumarian.github.io/helm-repo/bookinfo-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-15T12:47:18.820464121+03:00"
